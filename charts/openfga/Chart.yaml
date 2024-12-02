@@ -6,7 +6,7 @@ type: application
 version: 0.2.17
 appVersion: "v1.8.0"
 
-home: "https://https://bagnaram.github.io/openfga-helm-charts/helm-charts"
+home: "https://bagnaram.github.io/openfga-helm-charts"
 icon: https://github.com/openfga/community/raw/main/brand-assets/icon/color/openfga-icon-color.svg
 
 annotations:
